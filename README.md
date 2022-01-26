@@ -1,19 +1,35 @@
-https://discord.gg/6FpDBWNSWZ
+https://discord.gg/XAZ7wGzMtR
 Discord Kagal Spammer
 
 Kagal Spammer is a Multi-threaded Discord Self-Bot primarily used for mass messaging users on Discord. It has numerous other quality features to enhance the user experience and allowing the user to target the most users.
 
 Features :
 
-
-[1] Spammer             |[9]  About/Activace           |[17] MassReport
-[2] DM Spam             |[10] ServerJoiner Spammer     |[18] Server Nuker
-[3] Friend Add Spammer  |[11] Leave                    |[19] Account Nuker
-[4] Reaction Spam       |[12] TokenChecker             |[20] Token Bruteforcer
-[5] WebhookSpammer      |[13] Token Onliner            |[21] Token Grabber
-[6] Typing Spammer      |[14] HypeSquad Joiner         |[22] Group Spammer
-[7] VC Spammer          |[15] NickName Changer         |[23] About
-[8] Mass DM             |[16] Status Changer           |[24] Exit
+[1] Spammer
+[2] DM Spam
+[3] Friend Add Spammer
+[4] Reaction Spam
+[5] WebhookSpammer
+[6] Typing Spammer
+[7] VC Spammer
+[8] Mass DM
+[9] About/Activace
+[10] ServerJoiner Spammer
+[11] Leaver Server
+[12] TokenChecker
+[13] Token Onliner
+[14] HypeSquad Joiner
+[15] NickName Changer
+[16] Status Changer
+[17] MassReport
+[18] Server Nuker
+[19] Account Nuker
+[20] Token Bruteforcer
+[21] Token Grabber
+[22] Group Spammer
+[23] About
+[24] Leave
+[25] Token Gen
 
 
 Requirements:
